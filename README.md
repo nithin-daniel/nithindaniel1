@@ -2,7 +2,7 @@
 - 👀 I’m interested in Phython
 - 🌱 I’m currently learning Backend (Django)
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me .......
+- 📫 How to reach me https://www.instagram.com/nithin_daniel_/ , https://twitter.com/NithinDaniel10
 
 <!---
 nithindaniel1/nithindaniel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
