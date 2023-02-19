@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nithin Daniel
-- 👀 I’m interested in Phython
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Backend (Django)
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me https://www.instagram.com/nithin_daniel_/ , https://twitter.com/NithinDaniel10
